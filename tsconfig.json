@@ -1,0 +1,10 @@
+{
+  "files": ["typings/index.d.ts"],
+  "compilerOptions": {
+    "module": "commonjs",
+    "removeComments": true,
+    "verbose" : false,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true
+  }
+}
