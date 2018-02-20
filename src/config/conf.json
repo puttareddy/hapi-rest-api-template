@@ -1,0 +1,22 @@
+{
+	"example": {
+		"message": "This message is configurable",
+		"minNameLength": 3
+	},
+	"http": {
+		"host": "0.0.0.0",
+		"port": 8080
+	},
+	"winston" : {
+    "port" : 7800,
+    "host" : "172.0.0.1",
+    "level" : "debug",
+    "silent" : false,
+    "ssl" : false
+  },
+  "services": {
+    "example_service": {
+      "host": "http://blueocean.com:8000/internal/example_service"
+    }
+  }
+}

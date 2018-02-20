@@ -1,0 +1,6 @@
+{
+  "service": {
+    "name": "example_name",
+    "port": 8080
+  }
+}
